@@ -3,7 +3,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 <meta http-equiv="x-ua-compatible" content="IE=9" >
 
-<title>Title</title>
+<title>TAREA 2: EDGAR OMAR SILVA VELARDE</title>
 
 <style type="text/css">
 body, td {
